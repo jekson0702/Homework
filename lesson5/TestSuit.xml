@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+    <test name="Test1">
+        <parameter name="param1" value="4"/>
+        <classes>
+            <class name="StringOperationsTest"/>
+            <class name="StringOperations2Test"/>
+            <class name="StringOperations3Test"/>
+        </classes>
+    </test>
+</suite>
