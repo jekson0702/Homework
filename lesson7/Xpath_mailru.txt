@@ -1,0 +1,16 @@
+//span[contains(text(),'Мой Мир')] - мой мир
+//a[@id='PH_projectsMenu_button'] - все проекты
+//a[@href='http://r.mail.ru/clb657254/go.mail.ru/search_images?fr=mailru&fm=1'] - картинки
+//label[@class='search__icon'] - иконка поиска
+//input[@id='search:submit'] - кнопка Найти
+//a[contains(@class, 'mailbox__icon_calendar')] - Иконка календаря
+//input[@id='mailbox:login'] - Имя пользователя
+//label[@for='mailbox:saveauth'] - Запомнить
+//a[@href='//lady.mail.ru/'] - раздел 'Леди'
+//div[@id='tabs:dropdown-container'] - раскрыть доп. меню
+//h3[contains(text(), 'Облако')] - Облака (вместо ICQ)
+//a[@href='//sportmail.ru' and @class='news-item__label i-color-black i-inline'] - раздел спорт внизу страницы
+//div[@class='news-item o-media news-item_tgb news-item_long_title tgb'] - реклама внизу страницы
+//div[@class='well notify i-link-no-deco i-absolute m-bordered m-animated-shadow m-animated-borderless notify_out'] //- Браузер Атом (вместо Mail Агента)
+(//a[@href='https://news.mail.ru/currency/'])[1] - курс доллара
+//div[@class='horo-informer__body i-pull-left'] - гороскоп
