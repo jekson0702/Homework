@@ -1,0 +1,12 @@
+20:04:53,452  INFO main Wall:postMessage:35 - Message is posted
+20:04:53,736  INFO main Photo:createAlbum:34 - Album is created
+20:04:53,868  INFO main Photo:getUploadURL:56 - UploadURL is received
+20:04:54,134  INFO main Photo:deleteAlbum:71 - Album is deleted
+20:04:54,502  INFO main Wall:editMessage:52 - Message is edited
+20:04:54,758  INFO main Wall:deleteMessage:68 - Message is deleted
+20:10:05,790  INFO main Wall:postMessage:35 - Message is posted
+20:10:06,199  INFO main Photo:createAlbum:34 - Album is created
+20:10:06,397  INFO main Photo:getUploadURL:56 - UploadURL is received
+20:10:06,736  INFO main Photo:deleteAlbum:71 - Album is deleted
+20:10:07,128  INFO main Wall:editMessage:52 - Message is edited
+20:10:07,466  INFO main Wall:deleteMessage:68 - Message is deleted
